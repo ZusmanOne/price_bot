@@ -36,7 +36,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-Создайте файл `.env` в корне каталога `bot_notification/` со следующими настройками:
+Создайте файл `.env` в корне каталога `price_bot/` со следующими настройками:
 
 - `DEVMAN_TOKEN` — для этого зарегистрируйтесь на сайте [Devman](https://dvmn.org)
 - `TG_TOKEN` — для этого вам нужно написать [отцу ботов](https://telegram.me/BotFather).
