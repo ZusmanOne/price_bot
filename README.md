@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Создайте файл `.env` в корне каталога `price_bot/` со следующими настройками:
 
-- `DEVMAN_TOKEN` — для этого зарегистрируйтесь на сайте [Devman](https://dvmn.org)
+
 - `TG_TOKEN` — для этого вам нужно написать [отцу ботов](https://telegram.me/BotFather).
 - `TG_CHAT_ID` — для этого нужно написать [этому боту](https://telegram.me/getmyid_bot)
 
